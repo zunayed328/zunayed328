@@ -184,14 +184,14 @@ const zunayed = {
 
 ---
 
-<!-- ==================== GITHUB STATS (FIXED) ==================== -->
+<!-- ==================== GITHUB STATS (STABLE) ==================== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5aM2vJnHhqAM/giphy.gif" width="35"/> GitHub Analytics
 </h2>
 
 <div align="center">
   <a href="https://github.com/zunayed328">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zunayed328&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Zunayed's%20GitHub%20Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zunayed328&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Zunayed's%20GitHub%20Stats"/>
   </a>
   <a href="https://github.com/zunayed328">
     <img height="180em" src="https://streak-stats.demolab.com?user=zunayed328&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
@@ -201,29 +201,13 @@ const zunayed = {
 <div align="center">
   <br/>
   <a href="https://github.com/zunayed328">
-    <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zunayed328&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&card_width=500"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunayed328&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
   </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zunayed328&theme=radical" width="90%"/>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zunayed328&theme=radical" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zunayed328&theme=radical" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zunayed328&theme=radical" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zunayed328&theme=radical&utcOffset=6" width="45%"/>
 </div>
 
 ---
 
-<!-- ==================== TROPHIES (FIXED) ==================== -->
+<!-- ==================== TROPHIES ==================== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="35"/> GitHub Trophies
 </h2>
@@ -241,6 +225,28 @@ const zunayed = {
   <img src="https://img.shields.io/badge/👥-50%20Followers%20Goal-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻-500%20Commits%20Goal-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀-20%20Projects%20Goal-purple?style=for-the-badge" />
+</div>
+
+---
+
+<!-- ==================== SKILL PROGRESS BARS ==================== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> My Skill Progress
+</h2>
+
+<div align="center">
+
+| Skill | Proficiency | Level |
+|-------|-------------|-------|
+| 🐍 **Python** | ![](https://geps.dev/progress/85?dangerColor=006466&warningColor=0b525b&successColor=144552) | Advanced |
+| 🤖 **Machine Learning** | ![](https://geps.dev/progress/75?dangerColor=006466&warningColor=0b525b&successColor=144552) | Intermediate+ |
+| 🧠 **Deep Learning** | ![](https://geps.dev/progress/70?dangerColor=006466&warningColor=0b525b&successColor=144552) | Intermediate |
+| 💻 **C / C++** | ![](https://geps.dev/progress/80?dangerColor=006466&warningColor=0b525b&successColor=144552) | Advanced |
+| 📊 **Data Analysis** | ![](https://geps.dev/progress/78?dangerColor=006466&warningColor=0b525b&successColor=144552) | Advanced |
+| 🌐 **Web Development** | ![](https://geps.dev/progress/72?dangerColor=006466&warningColor=0b525b&successColor=144552) | Intermediate+ |
+| ⚡ **Problem Solving** | ![](https://geps.dev/progress/88?dangerColor=006466&warningColor=0b525b&successColor=144552) | Advanced |
+| 🗄️ **Databases (SQL)** | ![](https://geps.dev/progress/75?dangerColor=006466&warningColor=0b525b&successColor=144552) | Intermediate+ |
+
 </div>
 
 ---
