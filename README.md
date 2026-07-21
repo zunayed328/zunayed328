@@ -171,7 +171,7 @@ const zunayed = {
 
 ---
 
-<!-- ==================== ANIMATED CODING ANIMATION ==================== -->
+<!-- ==================== ANIMATED CODING ICONS ==================== -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
@@ -184,14 +184,14 @@ const zunayed = {
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== GITHUB STATS (FIXED) ==================== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5aM2vJnHhqAM/giphy.gif" width="35"/> GitHub Analytics
 </h2>
 
 <div align="center">
   <a href="https://github.com/zunayed328">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zunayed328&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zunayed328&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Zunayed's%20GitHub%20Stats"/>
   </a>
   <a href="https://github.com/zunayed328">
     <img height="180em" src="https://streak-stats.demolab.com?user=zunayed328&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
@@ -201,21 +201,46 @@ const zunayed = {
 <div align="center">
   <br/>
   <a href="https://github.com/zunayed328">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunayed328&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+    <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zunayed328&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&card_width=500"/>
   </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zunayed328&theme=radical" width="90%"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zunayed328&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zunayed328&theme=radical" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zunayed328&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zunayed328&theme=radical&utcOffset=6" width="45%"/>
 </div>
 
 ---
 
-<!-- ==================== TROPHIES ==================== -->
+<!-- ==================== TROPHIES (FIXED) ==================== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="35"/> GitHub Trophies
 </h2>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zunayed328&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=zunayed328&theme=algolia&no-frame=true&no-bg=false&column=4&row=2&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultipleLang"/>
   </a>
+</div>
+
+<div align="center">
+  <br/>
+  <b>🎖️ Milestones I'm Working Towards</b><br/><br/>
+  <img src="https://img.shields.io/badge/⭐-100%20Stars%20Goal-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥-50%20Followers%20Goal-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-500%20Commits%20Goal-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-20%20Projects%20Goal-purple?style=for-the-badge" />
 </div>
 
 ---
