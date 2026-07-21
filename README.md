@@ -1,72 +1,72 @@
-<!-- HEADER SECTION WITH ANIMATED SVG -->
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Mohammad%20Zunayed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Future%20Researcher&descAlignY=58&descAlign=50" width="100%"/>
+</div>
+
+<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%AC+Data+Scientist+%7C+AI+Engineer+%7C+ML+Enthusiast;Building+the+Future+with+Data+%26+AI" alt="Typing SVG" />
-  </a>
-
-  <!-- Animated Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mohammad%20Zunayed&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55&descSize=22"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Aspiring+Data+Scientist+%F0%9F%94%AC;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Intelligence+%F0%9F%92%A1;Future+MSc+Student+in+Europe+%F0%9F%87%AA%F0%9F%87%BA)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ANIMATED SNAKE CONTRIBUTION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
+<!-- ===== SOCIAL BADGES ===== -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=zunayed328&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/zunayed328?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/zunayed328)
-
-  <a href="https://www.linkedin.com/in/mohammad-zunayed-7793122a3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mohammad-zunayed-7793122a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/mohammadzunayed">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="https://zunayed7.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/zunayed_328/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/md.zunayed.7921">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.kaggle.com/mohammadzunayed">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="mailto:mdzunayed2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=zunayed328&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/zunayed328?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-success?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<!-- ANIMATED ABOUT ME SECTION -->
-<img align="right" alt="Data Science GIF" width="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ0Y2x3Ym1vOGNhMnE0dWFqOGZ6eXRuNnhwcm9rZDB5NXN6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+<!-- ===== ABOUT ME ===== -->
+## 🧠 About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403339/media/dfc5f974cc5d8b16f9de1258fa1fdcb2.gif"/>
 
 ```yaml
-name: "Mohammad Zunayed"
-role: "AI Engineer & Data Scientist"
-education:
-  degree: "B.Sc. in Computer Science"
-  
-currently_working_on: "Building an immersive 3D portfolio using React.js & Three.js"
-currently_learning: "Deep Learning architectures & Firebase backend integration"
-ask_me_about: 
-  - "Machine Learning & Deep Learning"
-  - "React.js & Three.js"
-  - "Python & AI Integration"
-  - "Data Visualization"
-  
-collaboration: "Open-source AI projects, ML research, or full-stack web apps"
-fun_fact: "I treat debugging code like solving a mystery novel — frustrating in the middle, but satisfying at the end! 🕵️"
-motto: "In God we trust, all others must bring data 📊"
+👨‍💻 Personal Info:
+  Name        : Mohammad Zunayed
+  Location    : Mirpur-2, Dhaka, Bangladesh 🇧🇩
+  Pronouns    : He / Him
+  Email       : mdzunayed2002@gmail.com
+
+🎓 Education:
+  University  : Bangladesh University of Business & Technology (BUBT)
+  Degree      : B.Sc. in Computer Science & Engineering
+  Major       : Data Science
+  Duration    : July 2023 — July 2027
+  Focus Areas : AI, Machine Learning, Data Analytics
+
+💼 Current Role:
+  Position    : Exam Controller & IT Expert
+  Company     : Science Coaching, Dhaka
+  Since       : November 2023 — Present
+
+🌍 Languages:
+  - Bangla   (Native)
+  - English  (Professional)
+  - Hindi    (Conversational)
+  - Arabic   (Basic)
+
+🎯 Goal:
+  "To pursue a Master's degree in Data Science / AI in Europe 
+   and contribute to cutting-edge research that shapes 
+   the future of intelligent systems."
