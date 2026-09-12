@@ -67,3 +67,80 @@ const researcher = {
   current_focus: "MSc Admissions 🇪🇺",
   status: "Compiling research papers..."
 };
+```
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+**`Machine Learning & Data Science`**<br>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,pandas,numpy,opencv,matlab&theme=dark" />
+
+**`Software Engineering & Web Technologies`**<br>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,nextjs,tailwind&theme=dark" />
+
+**`Databases, Tools & Cloud`**<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,aws,linux&theme=dark" />
+
+</div>
+
+---
+
+## 📊 Academic & Development Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zunayed328&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunayed328&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayed328&bg_color=0D1117&color=00D9FF&line=0052D4&point=FFFFFF&area=true&hide_border=true&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+## 🚀 Featured Research & Projects
+
+| 🔬 Federated Self-Supervised Learning | 🌐 3D Interactive Portfolio |
+| :--- | :--- |
+| **Domain:** Deep Learning / Medical AI <br> Research project exploring privacy-preserving ML models using PyTorch. Focuses on decentralizing data training across nodes. | **Domain:** Frontend / WebGL <br> A highly interactive, physics-based 3D personal portfolio built with React, Three.js, and modern JavaScript. |
+| [**🔗 View Repository**](https://github.com/zunayed328/Federated-Self-Supervised-) | [**🔗 Live Website**](https://zunayed7.netlify.app/) |
+
+| 🏦 Core C Bank Management System | 🏆 Competitive Programming Vault |
+| :--- | :--- |
+| **Domain:** System Programming <br> A robust backend system written purely in C utilizing advanced file handling, structs, and memory management. | **Domain:** Algorithms & Data Structures <br> A collection of my solutions for ICPC, Codeforces, and university level algorithmic challenges written in C++. |
+| [**🔗 View Repository**](https://github.com/zunayed328/Bank-Management-System) | [**🔗 View Repository**](https://github.com/zunayed328) |
+
+---
+
+## 🇪🇺 Target Destinations for Higher Studies (MSc)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🇩🇪_Germany-000000?style=for-the-badge&labelColor=DD0000&color=FFCE00" />
+  <img src="https://img.shields.io/badge/🇸🇪_Sweden-006AA7?style=for-the-badge&labelColor=006AA7&color=FECC00" />
+  <img src="https://img.shields.io/badge/🇳🇴_Norway-BA0C2F?style=for-the-badge&labelColor=BA0C2F&color=00205B" />
+  <img src="https://img.shields.io/badge/🇩🇰_Denmark-C60C30?style=for-the-badge&labelColor=C60C30&color=FFFFFF" />
+</div>
+<br>
+
+> *"The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data."* — **Charles Babbage**
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <p><b>✨ Open to Research Collaborations, MSc Guidance, and Tech Roles ✨</b></p>
+</div>
