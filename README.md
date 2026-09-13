@@ -1,182 +1,135 @@
 <!--
-═══════════════════════════════════════════════════════════════
-  Mohammad Zunayed · GitHub Profile README
-  Color system: Dark #0D1117 | Panel #161B22 | Accent #F5A524
-  Maintained at: github.com/zunayed328
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
+  MOHAMMAD ZUNAYED — GITHUB PROFILE README
+  Color: #0D1117 bg · #161B22 panel · #F5A524 amber · #E6EDF3 text
+  GitHub: zunayed328
+═══════════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ▌HEADER IDENTITY BLOCK ▐ -->
+<!-- ==================== ANIMATED HEADER ==================== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,25:B45309,50:F5A524,75:D97706,100:92400E&height=320&section=header&text=Mohammad%20Zunayed&fontSize=80&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Engineer%20%E2%9C%A6%20Future%20Researcher&descAlignY=55&descAlign=50&descSize=22" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5A524&height=3&section=header&fontSize=0" width="100%" alt="" />
-
-<!-- Animated identity SVG — single loop, fades in role titles sequentially -->
-<svg width="780" height="110" viewBox="0 0 780 110"
-     xmlns="http://www.w3.org/2000/svg"
-     role="img" aria-label="Mohammad Zunayed — Data Scientist · AI/ML Researcher · Competitive Programmer">
-  <rect width="780" height="110" fill="#0D1117" rx="10"/>
-
-  <!-- Accent left bar -->
-  <rect x="28" y="22" width="3" height="66" fill="#F5A524" rx="1.5">
-    <animate attributeName="height" values="0;66" dur="0.6s" fill="freeze" begin="0.1s"/>
-    <animate attributeName="y" values="55;22" dur="0.6s" fill="freeze" begin="0.1s"/>
+<!-- ==================== ANIMATED IDENTITY SVG ==================== -->
+<div align="center">
+<svg width="780" height="90" viewBox="0 0 780 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohammad Zunayed">
+  <rect width="780" height="90" fill="#0D1117" rx="10"/>
+  <rect x="30" y="18" width="3" height="54" fill="#F5A524" rx="1.5">
+    <animate attributeName="height" values="0;54" dur="0.6s" fill="freeze" begin="0.1s"/>
+    <animate attributeName="y" values="45;18" dur="0.6s" fill="freeze" begin="0.1s"/>
   </rect>
-
-  <!-- Name -->
-  <text x="44" y="52" font-family="'Segoe UI',system-ui,sans-serif"
-        font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.3">
+  <text x="46" y="46" font-family="'Segoe UI',system-ui,sans-serif" font-size="24" font-weight="700" fill="#E6EDF3" opacity="0">
     Mohammad Zunayed
-    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="0.3s"/>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze" begin="0.4s"/>
   </text>
-
-  <!-- Role line 1 -->
-  <text x="44" y="73" font-family="'Segoe UI',system-ui,sans-serif"
-        font-size="13" fill="#F5A524" letter-spacing="1.5" font-weight="600">
-    DATA SCIENCE · AI/ML RESEARCH · COMPETITIVE PROGRAMMING
-    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="0.7s"/>
+  <text x="46" y="65" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#F5A524" letter-spacing="2" font-weight="600" opacity="0">
+    DATA SCIENCE · ML RESEARCH · COMPETITIVE PROGRAMMING
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze" begin="0.8s"/>
   </text>
-
-  <!-- Role line 2 -->
-  <text x="44" y="93" font-family="'Segoe UI',system-ui,sans-serif"
-        font-size="12.5" fill="#9198A1">
-    B.Sc. CSE (Data Science) · Dhaka, Bangladesh · Seeking research &amp; industry opportunities
-    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="1s"/>
+  <text x="46" y="82" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#9198A1" opacity="0">
+    B.Sc. CSE (Data Science) undergraduate · Dhaka, Bangladesh
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze" begin="1.1s"/>
   </text>
-
-  <!-- Amber dot accent -->
-  <circle cx="740" cy="55" r="18" fill="#161B22" stroke="#F5A524" stroke-width="1.5">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.2s"/>
+  <circle cx="728" cy="45" r="22" fill="#161B22" stroke="#F5A524" stroke-width="1.5" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="1.3s"/>
+    <animate attributeName="stroke-width" values="1.5;2.5;1.5" dur="2.5s" repeatCount="indefinite" begin="1.8s"/>
   </circle>
-  <text x="740" y="60" text-anchor="middle" font-size="18">🎯
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.2s"/>
+  <text x="728" y="52" text-anchor="middle" font-size="20" opacity="0">🎯
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="1.3s"/>
   </text>
 </svg>
-
 </div>
 
----
-
-<!-- ▌WHO I AM ▐ -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="58%" valign="top">
-
-### About
-
-I am a final-year B.Sc. CSE (Data Science) student building at the intersection of **machine learning**, **medical image analysis**, and **competitive programming**.
-
-My current focus is publishing research in data science, strengthening my ML engineering fundamentals, and preparing applications for **M.Sc. / Ph.D. programs** in Europe and North America.
-
-I approach problems methodically — from exploratory analysis through production-ready implementation.
-
-**Currently working on**
-- Federated self-supervised learning for medical imaging
-- Advanced deep learning architectures (Transformers, diffusion)
-- Competitive algorithm training — targeting ICPC regionals
-
-**Actively seeking**
-Research collaborations · Graduate program supervisors · Internships in ML / Data Science
-
-</td>
-<td width="4%"></td>
-<td width="38%" valign="top">
-
-**Quick facts**
-
-| | |
-|---|---|
-| 🎓 | B.Sc. CSE — Data Science track |
-| 🏛️ | Dhaka, Bangladesh |
-| 🔬 | Research → AI in healthcare, NLP |
-| ⚙️ | Engineering → ML pipelines, CV |
-| 🏆 | ICPC Dhaka Regional participant |
-| 🌐 | Target regions: EU · NA · UK |
-| 📬 | Open to collaboration |
-
-**Languages I read and write**
-
-Bengali (native) · English (professional) · Learning: French, German
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ▌SELECTED PROJECTS ▐ -->
-
-## Selected Projects
-
-> Chosen for technical depth, research relevance, or engineering quality. Stars reflect current state — I update these quarterly.
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-#### 🔬 Federated Self-Supervised Learning — Medical Imaging
-Privacy-preserving representation learning across distributed hospital datasets. Combines SimCLR-style contrastive pretraining with federated averaging.
-
-`Python` `PyTorch` `FL` `Medical CV`
-
-[→ View repository](https://github.com/zunayed328)
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 📊 Task Management System
-Production-grade web application with role-based access, data dashboards, and REST API.
-
-`JavaScript` `Node.js` `React` `PostgreSQL`
-
-[→ View repository](https://github.com/zunayed328)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-#### 🤖 AI Navigation Defense — Autonomous Agent
-Reinforcement learning agent navigating adversarial environments. Coursework project extended to include curriculum learning.
-
-`Python` `OpenAI Gym` `RL` `NumPy`
-
-[→ View repository](https://github.com/zunayed328)
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 📈 Value-Innovative Projects (Series)
-Exploratory data science notebooks covering time-series forecasting, NLP classification, and tabular learning benchmarks.
-
-`Python` `Pandas` `Scikit-learn` `Jupyter`
-
-[→ View repository](https://github.com/zunayed328)
-
-</td>
-
-</tr>
-</table>
-
-<div align="right">
-<a href="https://github.com/zunayed328?tab=repositories">
-<img src="https://img.shields.io/badge/All_repositories_→-161B22?style=flat&labelColor=161B22&color=F5A524&logoColor=F5A524" alt="All repositories"/>
-</a>
+<!-- ==================== TYPING SVG ==================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5A524&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=Building+at+the+Edge+of+Data+%26+Intelligence;ML+Engineer+%7C+Researcher+%7C+Problem+Solver;Targeting+MSc+in+AI+%E2%80%94+Europe+%F0%9F%87%AA%F0%9F%87%BA;Open+to+Research+%26+Collaboration" alt="Typing SVG"/>
 </div>
 
----
+<!-- ==================== AMBER DIVIDER ==================== -->
+<div align="center">
+<svg width="100%" height="4" viewBox="0 0 800 4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="d1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="30%" style="stop-color:#B45309"/>
+      <stop offset="50%" style="stop-color:#F5A524"/>
+      <stop offset="70%" style="stop-color:#D97706"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="4" fill="url(#d1)" rx="2"/>
+</svg>
+</div>
 
-<!-- ▌TECHNICAL SKILLS ▐ -->
+<br/>
 
-## Technical Stack
+<!-- ==================== SOCIAL LINKS ==================== -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-zunayed-7793122a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F5A524&labelColor=161B22"/>
+  </a>&nbsp;
+  <a href="https://zunayed7.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=F5A524&labelColor=161B22"/>
+  </a>&nbsp;
+  <a href="https://www.kaggle.com/mohammadzunayed" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=F5A524&labelColor=161B22"/>
+  </a>&nbsp;
+  <a href="mailto:mdzunayed2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=F5A524&labelColor=161B22"/>
+  </a>&nbsp;
+  <a href="https://www.behance.net/mohammadzunayed/editor" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-161B22?style=for-the-badge&logo=behance&logoColor=F5A524&labelColor=161B22"/>
+  </a>
+</div>
 
-<table width="100%">
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=zunayed328&label=Profile%20Views&color=B45309&style=for-the-badge&labelColor=161B22"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/zunayed328?label=Followers&style=for-the-badge&color=F5A524&labelColor=161B22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-161B22?style=for-the-badge&color=D97706&labelColor=161B22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Collab-161B22?style=for-the-badge&color=B45309&labelColor=161B22"/>
+</div>
+
+<br/>
+
+<!-- ==================== PULSE WAVE DIVIDER ==================== -->
+<div align="center">
+<svg width="100%" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <rect width="800" height="30" fill="#0D1117"/>
+  <polyline points="0,15 60,15 80,5 100,25 120,5 140,25 160,15 200,15 220,8 240,22 260,8 280,22 300,15 800,15"
+    fill="none" stroke="#F5A524" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7">
+    <animate attributeName="stroke-dasharray" values="0,2000;2000,0" dur="2.5s" fill="freeze" begin="0s"/>
+  </polyline>
+</svg>
+</div>
+
+<!-- ==================== ABOUT ME ==================== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+</h2>
+
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="55%" valign="top">
 
-**Languages**
+**👨‍💻 Who Am I?**
+
+Hi! I'm **Mohammad Zunayed** — a passionate Data Science undergraduate based in Dhaka, Bangladesh 🇧🇩. My journey revolves around transforming raw data into meaningful intelligence through AI, Machine Learning, and Deep Learning.
+
+```javascript
+const zunayed = {
+  pronouns: "He/Him",
+  code: ["Python", "C++", "JavaScript", "SQL"],
+  askMeAbout: ["Deep Learning", "Data Science", "Algorithms"],
+  technologies: {
+    ML_AI: ["TensorFlow", "PyTorch", "Scikit-learn"],
+    web:   ["React", "Node.js", "Three.js"],
+    data:  ["Pandas", "NumPy", "Matplotlib"]
+  },
+  currentFocus: "MSc in AI/DS in Europe 🇪🇺",
+  funFact: "I debug like solving a mystery novel 🕵️"
+};
