@@ -1,5 +1,3 @@
-Markdown
-
 <!--
 ═══════════════════════════════════════════════════════════════════════════════
   MOHAMMAD ZUNAYED — GITHUB PROFILE README
@@ -188,3 +186,53 @@ Jupyter
 🌐 3D Interactive Portfolio — React + Three.js
 🧠 Deep Learning Experiments — CNNs & Transformers
 </td> <td width="50%" valign="top">
+📚 Learning Path
+
+🧠 Advanced Deep Learning (RNN, LSTM, Transformers)
+☁️ Cloud ML (AWS SageMaker, Google Cloud AI)
+📝 Academic Research Writing
+🎓 IELTS & GRE Preparation for MSc
+</td> </tr> </table><!-- ==================== FEATURED PROJECTS ==================== --><h2 align="center"> <img src="https://media.giphy.com/media/jRlEQCd8s4XL2/giphy.gif" width="32"/> Featured Projects </h2><table> <tr> <td width="50%" valign="top">
+🌐 3D Portfolio Website
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+Interactive personal portfolio built with modern web tech
+
+React Three.js JavaScript · ✅ Live
+
+🔗 Visit Live Site
+
+</td> <td width="50%" valign="top">
+🏦 Bank Management System
+
+<img src="https://user-images.githubusercontent.com/74038190/213910847-9b83f2b4-8908-4be0-a70a-8be93b0fabf6.gif" width="100%"/>
+Full-featured banking application built in C
+
+C Programming File Handling · ✅ Completed
+
+🔗 View Repository
+
+</td> </tr> <tr> <td width="50%" valign="top">
+🧠 Federated Self-Supervised Learning
+
+<img src="https://user-images.githubusercontent.com/74038190/213910849-4c8b6bb2-8b8c-459d-b7d9-59a5b5b3e02c.gif" width="100%"/>
+Advanced research on federated learning models
+
+Python PyTorch Deep Learning · 🚧 In Progress
+
+🔗 View Repository
+
+</td> <td width="50%" valign="top">
+📊 More Innovative Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/213910844-b6df6a5e-9d2a-4b3f-8fd9-8fcf01c86976.gif" width="100%"/>
+Building impactful Data Science & AI projects
+
+Python TensorFlow Pandas · 🔜 Coming Soon
+
+🔗 Stay Tuned!
+
+</td> </tr> </table><div align="right"> <a href="https://github.com/zunayed328?tab=repositories"> <img src="https://img.shields.io/badge/All_Repositories_→-161B22?style=flat&labelColor=161B22&color=F5A524"/> </a> </div><!-- ==================== AMBER DIVIDER ==================== --><div align="center"> <svg width="100%" height="4" viewBox="0 0 800 4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"> <defs> <linearGradient id="d5" x1="0%" y1="0%" x2="100%" y2="0%"> <stop offset="0%" style="stop-color:#0D1117"/> <stop offset="40%" style="stop-color:#92400E"/> <stop offset="60%" style="stop-color:#F5A524"/> <stop offset="100%" style="stop-color:#0D1117"/> </linearGradient> </defs> <rect width="800" height="4" fill="url(#d5)" rx="2"/> </svg> </div><!-- ==================== VISION ==================== --><h2 align="center"> <img src="https://media.giphy.com/media/RJVw12UMOxGdSc9QjY/giphy.gif" width="32"/> Vision & Career Goals </h2><div align="center"> <svg width="700" height="96" viewBox="0 0 700 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vision statement"> <rect width="700" height="96" fill="#161B22" rx="10" stroke="#30363D" stroke-width="1"/> <rect x="0" y="0" width="4" height="96" fill="#F5A524" rx="2"/> <text x="24" y="28" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" font-style="italic">"I aspire to bridge the gap between raw data and meaningful intelligence.</text> <text x="24" y="48" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" font-style="italic">My mission is to pursue advanced research in Artificial Intelligence</text> <text x="24" y="68" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" font-style="italic">at a world-class European university, contributing to innovations that shape the future."</text> <text x="576" y="88" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#F5A524" font-weight="600">— Mohammad Zunayed</text> </svg> </div><br/>
+🇪🇺 Target Destinations for MSc Studies:
+
+<div align="center"> <img src="https://img.shields.io/badge/🇩🇪%20Germany-161B22?style=for-the-badge&labelColor=161B22&color=B45309"/> <img src="https://img.shields.io/badge/🇸🇪%20Sweden-161B22?style=for-the-badge&labelColor=161B22&color=B45309"/> <img src="https://img.shields.io/badge/🇳🇴%20Norway-161B22?style=for-the-badge&labelColor=161B22&color=B45309"/> <img src="https://img.shields.io/badge/🇩🇰%20Denmark-161B22?style=for-the-badge&labelColor=161B22&color=B45309"/> <img src="https://img.shields.io/badge/🇫🇷%20France-161B22?style=for-the-badge&labelColor=161B22&color=B45309"/> <img src="https://img.shields.io/badge/🇪🇸%20Spain-161B22?style=for-the-badge&labelColor=161B22&color=B45309"/> </div><div align="center"> <br/> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="70"/> </div><!-- ==================== DEVELOPER QUOTE ==================== --><h2 align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/> Developer Quote </h2><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&border_color=F5A524&text_color=E6EDF3&author_color=F5A524"/> </div><!-- ==================== AMBER DIVIDER ==================== --><div align="center"> <svg width="100%" height="4" viewBox="0 0 800 4" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"> <defs> <linearGradient id="d6" x1="0%" y1="0%" x2="100%" y2="0%"> <stop offset="0%" style="stop-color:#0D1117"/> <stop offset="40%" style="stop-color:#92400E"/> <stop offset="60%" style="stop-color:#F5A524"/> <stop offset="100%" style="stop-color:#0D1117"/> </linearGradient> </defs> <rect width="800" height="4" fill="url(#d6)" rx="2"/> </svg> </div><!-- ==================== CONNECT ==================== --><h2 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/> Let's Connect & Collaborate! </h2><div align="center"> <p><i>I'm always excited to discuss <b>research opportunities</b>, <b>collaborations</b>, <b>internships</b>, or <b>study abroad guidance</b>. Feel free to reach out anytime!</i></p> <a href="mailto:mdzunayed2002@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=F5A524&labelColor=161B22"/> </a>&nbsp; <a href="https://www.linkedin.com/in/mohammad-zunayed-7793122a3/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F5A524&labelColor=161B22"/> </a>&nbsp; <a href="https://zunayed7.netlify.app/"> <img src="https://img.shields.io/badge/Visit%20Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=F5A524&labelColor=161B22"/> </a>&nbsp; <a href="https://www.kaggle.com/mohammadzunayed"> <img src="https://img.shields.io/badge/Follow%20on%20Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=F5A524&labelColor=161B22"/> </a> </div><!-- ==================== SNAKE ANIMATION ==================== --><div align="center"> <img src="https://raw.githubusercontent.com/zunayed328/zunayed328/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/> </div><!-- ==================== FOOTER PROGRESS BAR ==================== --><div align="center"> <svg width="780" height="42" viewBox="0 0 780 42" xmlns="http://www.w3.org/2000/svg" role="presentation" aria-hidden="true"> <rect width="780" height="42" fill="#0D1117" rx="8"/> <rect x="0" y="37" width="0" height="3" fill="#F5A524" rx="1.5"> <animate attributeName="width" values="0;780" dur="3.5s" fill="freeze" begin="0s" calcMode="spline" keySplines="0.4 0 0.2 1"/> </rect> <text x="390" y="24" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" fill="#9198A1"> Mohammad Zunayed · Building at the intersection of data, intelligence, and impact </text> </svg> </div><!-- ==================== ANIMATED FOOTER BAR ==================== --><div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/> </div><!-- ==================== FOOTER WAVE ==================== --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92400E,40:B45309,60:D97706,80:F5A524,100:21262D&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=E6EDF3&animation=twinkling&fontAlignY=70" width="100%"/> <p><b>⭐ From <a href="https://github.com/zunayed328">Mohammad Zunayed</a> — with passion for AI & Data Science ⭐</b></p> <p><i>"In God we trust, all others must bring data." — W. Edwards Deming</i></p> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="28"/> </div> ```
