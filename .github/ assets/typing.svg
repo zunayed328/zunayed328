@@ -1,1 +1,116 @@
 
+<svg width="800" height="80" viewBox="0 0 800 80"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0D1F35"/>
+    </linearGradient>
+
+    <!-- Text gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip -->
+    <clipPath id="clip">
+      <rect width="800" height="80" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+
+    <!-- Background -->
+    <rect width="800" height="80" fill="url(#bg)"/>
+
+    <!-- Border bottom line -->
+    <rect x="0" y="77" width="800" height="2" fill="url(#textGrad)" opacity="0.5"/>
+
+    <!-- Prompt symbol -->
+    <text x="20" y="50"
+          font-family="JetBrains Mono, Consolas, monospace"
+          font-size="22" font-weight="bold"
+          fill="#00D9FF" filter="url(#glow)">
+      $
+    </text>
+
+    <!-- ═══ TYPING TEXT ANIMATION ═══ -->
+
+    <!-- Text 1: Data Scientist -->
+    <text x="45" y="50"
+          font-family="JetBrains Mono, Consolas, monospace"
+          font-size="22" font-weight="600"
+          fill="#FFFFFF">
+      <tspan>Data Scientist &amp; AI Engineer</tspan>
+      <animate attributeName="opacity"
+               values="1;1;0;0;0;0;0;0;0;0;0;0"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Text 2: Deep Learning -->
+    <text x="45" y="50"
+          font-family="JetBrains Mono, Consolas, monospace"
+          font-size="22" font-weight="600"
+          fill="#FFFFFF" opacity="0">
+      <tspan>Deep Learning Researcher</tspan>
+      <animate attributeName="opacity"
+               values="0;0;0;1;1;0;0;0;0;0;0;0"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Text 3: MSc Target -->
+    <text x="45" y="50"
+          font-family="JetBrains Mono, Consolas, monospace"
+          font-size="22" font-weight="600"
+          fill="#FFFFFF" opacity="0">
+      <tspan>Targeting MSc AI → Europe</tspan>
+      <animate attributeName="opacity"
+               values="0;0;0;0;0;0;1;1;0;0;0;0"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Text 4: Building -->
+    <text x="45" y="50"
+          font-family="JetBrains Mono, Consolas, monospace"
+          font-size="22" font-weight="600"
+          fill="#FFFFFF" opacity="0">
+      <tspan>Building Intelligence from Data</tspan>
+      <animate attributeName="opacity"
+               values="0;0;0;0;0;0;0;0;0;1;1;0"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Blinking Cursor -->
+    <rect y="30" width="12" height="24" rx="1" fill="#00D9FF"
+          filter="url(#glow)">
+
+      <!-- Cursor X position follows active text -->
+      <animate attributeName="x"
+               values="390;390;270;270;390;390;390;390;430;430;430;390"
+               dur="12s" repeatCount="indefinite"/>
+
+      <!-- Cursor blink -->
+      <animate attributeName="opacity"
+               values="1;0;1;0;1;0;1;0;1;0;1;0"
+               dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+
+  <!-- Border -->
+  <rect width="800" height="80" rx="8"
+        fill="none" stroke="#30363D" stroke-width="1"/>
+
+</svg>
