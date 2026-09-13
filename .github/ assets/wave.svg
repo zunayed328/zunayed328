@@ -1,1 +1,31 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0.6"/>
+      <stop offset="50%"  stop-color="#00D9FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave 1 - Back -->
+  <path fill="#00D9FF" fill-opacity="0.05"
+    d="M0,40 C200,0 400,80 600,40 C800,0 1000,80 1200,40 L1200,80 L0,80 Z">
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0;-200,0;0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave 2 - Front -->
+  <path fill="#00D9FF" fill-opacity="0.08"
+    d="M0,50 C150,10 350,70 600,50 C850,30 1050,70 1200,50 L1200,80 L0,80 Z">
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0;200,0;0,0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Top Line -->
+  <line x1="0" y1="2" x2="1200" y2="2"
+        stroke="url(#waveGrad)" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.7;0.3"
+             dur="3s" repeatCount="indefinite"/>
+  </line>
+</svg>
