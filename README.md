@@ -141,248 +141,141 @@ const zunayed = {
 </tr>
 </table>
 
-<!-- ==================== KEY HIGHLIGHTS — ANIMATED SVG CARDS ==================== -->
+<!-- ==================== KEY HIGHLIGHTS ==================== -->
 <div align="center">
-
-<svg width="760" height="520" viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Key Highlights">
-
-  <!-- Background -->
-  <rect width="760" height="520" fill="#0D1117" rx="12"/>
-
-  <!-- Section heading -->
-  <text x="380" y="38" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="18" font-weight="700" fill="#E6EDF3" opacity="0">
-    🎯  Key Highlights
-    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="0.2s"/>
+<svg width="760" height="56" viewBox="0 0 760 56" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="56" fill="#0D1117" rx="10"/>
+  <rect x="270" y="46" width="220" height="3" fill="#F5A524" rx="1.5"/>
+  <text x="380" y="34" text-anchor="middle"
+        font-family="'Segoe UI',system-ui,sans-serif"
+        font-size="20" font-weight="700" fill="#E6EDF3">
+    🎯 Key Highlights
   </text>
-  <!-- Heading underline -->
-  <rect x="280" y="46" width="0" height="2" fill="#F5A524" rx="1">
-    <animate attributeName="width" values="0;200" dur="0.8s" fill="freeze" begin="0.5s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    <animate attributeName="x" values="380;280" dur="0.8s" fill="freeze" begin="0.5s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-
-  <!-- ── CARD 1 ── -->
-  <rect x="20" y="64" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.6s"/>
-  </rect>
-  <rect x="20" y="64" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="0.6s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="0.6s"/>
-  </rect>
-  <text x="44" y="86" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    🎓  Education
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.7s"/>
-  </text>
-  <text x="44" y="106" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Currently pursuing B.Sc. in CSE — Major: Data Science at BUBT  (2023 – 2027)
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.7s"/>
-  </text>
-  <!-- Progress pill -->
-  <rect x="620" y="78" width="100" height="16" fill="#21262D" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.8s"/>
-  </rect>
-  <rect x="620" y="78" width="0" height="16" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="0.8s"/>
-    <animate attributeName="width" values="0;55" dur="1s" fill="freeze" begin="0.9s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-  <text x="670" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="9" fill="#E6EDF3" font-weight="600" opacity="0">
-    2nd Year
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.2s"/>
-  </text>
-
-  <!-- ── CARD 2 ── -->
-  <rect x="20" y="126" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.8s"/>
-  </rect>
-  <rect x="20" y="126" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="0.8s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="0.8s"/>
-  </rect>
-  <text x="44" y="148" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    💼  Experience
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.9s"/>
-  </text>
-  <text x="44" y="168" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Exam Controller &amp; IT Expert — Science Coaching, Dhaka  (Nov 2023 – Present)
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="0.9s"/>
-  </text>
-  <rect x="630" y="138" width="80" height="18" fill="#1a3a1a" rx="9" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.0s"/>
-  </rect>
-  <text x="670" y="151" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#3fb950" font-weight="700" opacity="0">
-    ● Active
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.0s"/>
-  </text>
-
-  <!-- ── CARD 3 ── -->
-  <rect x="20" y="188" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.0s"/>
-  </rect>
-  <rect x="20" y="188" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="1.0s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="1.0s"/>
-  </rect>
-  <text x="44" y="210" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    🔬  Research
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.1s"/>
-  </text>
-  <text x="44" y="230" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Preparing publications in AI &amp; Data Science — Federated Learning focus
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.1s"/>
-  </text>
-  <rect x="618" y="198" width="102" height="18" fill="#1a2a3a" rx="9" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.1s"/>
-  </rect>
-  <text x="669" y="211" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#58a6ff" font-weight="700" opacity="0">
-    In Progress
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.1s"/>
-  </text>
-
-  <!-- ── CARD 4 ── -->
-  <rect x="20" y="250" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.2s"/>
-  </rect>
-  <rect x="20" y="250" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="1.2s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="1.2s"/>
-  </rect>
-  <text x="44" y="272" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    🌍  MSc Target
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.3s"/>
-  </text>
-  <text x="44" y="292" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Europe — Germany · Sweden · Norway · Denmark · France · Spain
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.3s"/>
-  </text>
-  <!-- Flag dots -->
-  <circle cx="480" cy="282" r="5" fill="#F5A524" opacity="0">
-    <animate attributeName="opacity" values="0;0.6" dur="0.3s" fill="freeze" begin="1.5s"/>
-  </circle>
-  <circle cx="496" cy="282" r="5" fill="#F5A524" opacity="0">
-    <animate attributeName="opacity" values="0;0.7" dur="0.3s" fill="freeze" begin="1.6s"/>
-  </circle>
-  <circle cx="512" cy="282" r="5" fill="#F5A524" opacity="0">
-    <animate attributeName="opacity" values="0;0.8" dur="0.3s" fill="freeze" begin="1.7s"/>
-  </circle>
-  <circle cx="528" cy="282" r="5" fill="#F5A524" opacity="0">
-    <animate attributeName="opacity" values="0;0.9" dur="0.3s" fill="freeze" begin="1.8s"/>
-  </circle>
-  <circle cx="544" cy="282" r="5" fill="#F5A524" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="1.9s"/>
-  </circle>
-  <circle cx="560" cy="282" r="5" fill="#F5A524" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.0s"/>
-  </circle>
-
-  <!-- ── CARD 5 ── -->
-  <rect x="20" y="312" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.4s"/>
-  </rect>
-  <rect x="20" y="312" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="1.4s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="1.4s"/>
-  </rect>
-  <text x="44" y="334" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    🏆  ICPC Asia Dhaka Regional
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.5s"/>
-  </text>
-  <text x="44" y="354" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Preliminary Contestant — 2023 &amp; 2025 · Competitive Programming
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.5s"/>
-  </text>
-  <rect x="618" y="322" width="102" height="18" fill="#2a1f0a" rx="9" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.5s"/>
-  </rect>
-  <text x="669" y="335" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#F5A524" font-weight="700" opacity="0">
-    2× Contestant
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.5s"/>
-  </text>
-
-  <!-- ── CARD 6 ── -->
-  <rect x="20" y="374" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.6s"/>
-  </rect>
-  <rect x="20" y="374" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="1.6s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="1.6s"/>
-  </rect>
-  <text x="44" y="396" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    📚  Currently Learning
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.7s"/>
-  </text>
-  <text x="44" y="416" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Deep Learning Architectures · Transformers · Advanced ML · Research Writing
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.7s"/>
-  </text>
-
-  <!-- ── CARD 7 ── -->
-  <rect x="20" y="436" width="720" height="52" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.8s"/>
-  </rect>
-  <rect x="20" y="436" width="0" height="52" fill="#B45309" rx="8" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="1.8s"/>
-    <animate attributeName="width" values="0;4" dur="0.3s" fill="freeze" begin="1.8s"/>
-  </rect>
-  <text x="44" y="458" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#F5A524" font-weight="700" opacity="0">
-    🌐  Languages
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.9s"/>
-  </text>
-  <text x="44" y="478" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#9198A1" opacity="0">
-    Bangla (Native) · English (Professional) · Hindi (Conversational) · Arabic (Basic)
-    <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" begin="1.9s"/>
-  </text>
-  <!-- Language level bars -->
-  <rect x="580" y="446" width="60" height="6" fill="#21262D" rx="3" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.0s"/>
-  </rect>
-  <rect x="580" y="446" width="0" height="6" fill="#F5A524" rx="3">
-    <animate attributeName="width" values="0;60" dur="0.8s" fill="freeze" begin="2.0s"/>
-  </rect>
-  <rect x="580" y="458" width="46" height="6" fill="#21262D" rx="3" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.1s"/>
-  </rect>
-  <rect x="580" y="458" width="0" height="6" fill="#D97706" rx="3">
-    <animate attributeName="width" values="0;46" dur="0.8s" fill="freeze" begin="2.1s"/>
-  </rect>
-  <rect x="580" y="470" width="32" height="6" fill="#21262D" rx="3" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.2s"/>
-  </rect>
-  <rect x="580" y="470" width="0" height="6" fill="#92400E" rx="3">
-    <animate attributeName="width" values="0;32" dur="0.8s" fill="freeze" begin="2.2s"/>
-  </rect>
-  <rect x="580" y="482" width="18" height="6" fill="#21262D" rx="3" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.3s"/>
-  </rect>
-  <rect x="580" y="482" width="0" height="6" fill="#4A2006" rx="3">
-    <animate attributeName="width" values="0;18" dur="0.8s" fill="freeze" begin="2.3s"/>
-  </rect>
-  <text x="648" y="452" font-family="'Segoe UI',system-ui,sans-serif" font-size="9" fill="#9198A1" opacity="0">
-    BN
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.0s"/>
-  </text>
-  <text x="648" y="464" font-family="'Segoe UI',system-ui,sans-serif" font-size="9" fill="#9198A1" opacity="0">
-    EN
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.1s"/>
-  </text>
-  <text x="648" y="476" font-family="'Segoe UI',system-ui,sans-serif" font-size="9" fill="#9198A1" opacity="0">
-    HI
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.2s"/>
-  </text>
-  <text x="648" y="488" font-family="'Segoe UI',system-ui,sans-serif" font-size="9" fill="#9198A1" opacity="0">
-    AR
-    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze" begin="2.3s"/>
-  </text>
-
-  <!-- Bottom amber scan line animation -->
-  <rect x="20" y="500" width="0" height="2" fill="#F5A524" rx="1" opacity="0.6">
-    <animate attributeName="width" values="0;720" dur="1.5s" fill="freeze" begin="2.4s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-  <text x="380" y="516" text-anchor="middle" font-family="'Fira Code',monospace,sans-serif" font-size="10" fill="#9198A1" opacity="0">
-    7 highlights loaded · profile.status = "actively_seeking_opportunities"
-    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="2.6s"/>
-  </text>
-
 </svg>
+</div>
 
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>🎓 Education</b></p>
+  <p>Currently pursuing <b>B.Sc. in CSE</b> — Major: Data Science at <b>BUBT</b> (2023–2027)</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/2nd%20Year-B45309?style=flat-square&labelColor=161B22&color=B45309"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>💼 Experience</b></p>
+  <p><b>Exam Controller &amp; IT Expert</b> — Science Coaching, Dhaka (Nov 2023–Present)</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/●%20Active-3fb950?style=flat-square&labelColor=1a3a1a&color=3fb950"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>🔬 Research</b></p>
+  <p>Preparing publications in <b>AI &amp; Data Science</b> — Federated Learning focus</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/In%20Progress-58a6ff?style=flat-square&labelColor=1a2a3a&color=58a6ff"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>🌍 MSc Target</b></p>
+  <p>Europe — Germany · Sweden · Norway · Denmark · France · Spain</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/🇩🇪%20DE-161B22?style=flat-square&labelColor=161B22&color=B45309"/>
+  <img src="https://img.shields.io/badge/🇸🇪%20SE-161B22?style=flat-square&labelColor=161B22&color=B45309"/>
+  <img src="https://img.shields.io/badge/🇳🇴%20NO-161B22?style=flat-square&labelColor=161B22&color=B45309"/>
+  <img src="https://img.shields.io/badge/🇩🇰%20DK-161B22?style=flat-square&labelColor=161B22&color=B45309"/>
+  <img src="https://img.shields.io/badge/🇫🇷%20FR-161B22?style=flat-square&labelColor=161B22&color=B45309"/>
+  <img src="https://img.shields.io/badge/🇪🇸%20ES-161B22?style=flat-square&labelColor=161B22&color=B45309"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>🏆 ICPC Asia Dhaka Regional</b></p>
+  <p>Preliminary Contestant — <b>2023 &amp; 2025</b> · Competitive Programming</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/2×%20Contestant-F5A524?style=flat-square&labelColor=2a1f0a&color=F5A524"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>📚 Currently Learning</b></p>
+  <p>Deep Learning Architectures · Transformers · Advanced ML · Research Writing</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/Deep%20Learning-D97706?style=flat-square&labelColor=161B22&color=D97706"/>
+  <img src="https://img.shields.io/badge/Transformers-D97706?style=flat-square&labelColor=161B22&color=D97706"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" valign="middle" width="4">
+  <img src="https://img.shields.io/badge/|-%20?color=B45309&style=flat-square" height="52"/>
+</td>
+<td valign="middle">
+  <p><b>🌐 Languages</b></p>
+  <p>Bangla (Native) · English (Professional) · Hindi (Conversational) · Arabic (Basic)</p>
+</td>
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/BN-Native-F5A524?style=flat-square&labelColor=161B22&color=F5A524"/>
+  <img src="https://img.shields.io/badge/EN-Professional-D97706?style=flat-square&labelColor=161B22&color=D97706"/>
+  <img src="https://img.shields.io/badge/HI-Conversational-B45309?style=flat-square&labelColor=161B22&color=B45309"/>
+  <img src="https://img.shields.io/badge/AR-Basic-92400E?style=flat-square&labelColor=161B22&color=92400E"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/7%20highlights%20loaded-30363D?style=flat-square&labelColor=161B22&color=30363D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/profile.status-actively__seeking__opportunities-F5A524?style=flat-square&labelColor=161B22&color=F5A524"/>
 </div>
 
 <!-- ==================== QUICK OVERVIEW ==================== -->
